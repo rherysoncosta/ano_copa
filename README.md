@@ -1,2 +1,2 @@
 # ano_copa
-Praticando logica 
+Praticando logica com JavaScript/HTML
